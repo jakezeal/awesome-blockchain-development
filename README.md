@@ -1,6 +1,6 @@
-# awesome-blockchain-development
+# Awesome Blockchain Development
 
-A curated list of awesome blockchain, cryptocurrency and fintech resources for software engineers and developers in the space.
+A curated list of blockchain, cryptocurrency and fintech resources for software engineers and developers in the space.
 
 To do: 
 - Create table of contents
