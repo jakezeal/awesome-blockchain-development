@@ -177,7 +177,7 @@ Future ideas for expanding this resource:
 * [How to Run a Full Node](https://bitcoin.org/en/full-node)
 * [Bitcoin Core Config File Generator](https://jlopp.github.io/bitcoin-core-config-generator/)
 * [Bitseed Node Hardware](https://bitseed.org/product/core/)
-* [Incomplete functions for you to solve which demonstrate various aspects of a full node in a simplified way (python)] (https://github.com/jimmysong/devplusplus)
+* [Incomplete functions for you to solve which demonstrate various aspects of a full node in a simplified way (python)](https://github.com/jimmysong/devplusplus)
 
 ### Mining
 
