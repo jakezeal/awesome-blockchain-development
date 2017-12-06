@@ -2,22 +2,41 @@
 
 A curated list of blockchain, cryptocurrency and fintech resources for software engineers and developers in the space.
 
-To do: 
-- Create table of contents
-- Organize resources
-- Add additional resources 
-
-Future ideas for expanding this resource:
-- List of blockchain startups (and specifically ones that are hiring)
-- Different software engineering positions that are in high demand in the space
-- Different use cases and value of blockchain tech (both on a personal and enterprise level)
-
 
 # Contents
 
 * [General Resources](#general-resources)
 * [Computer Science](#computer-science)
 * [Bitcoin](#bitcoin)
+  * [Getting Started](#getting-started)
+  * [History of Bitcoin](#history-of-bitcoin)
+  * [Technical Resources](#technical-resources)
+  * [Online Courses](#online-courses)
+  * [Video Presentations](#video-presentations)
+  * [Documentaries](#documentaries)
+  * [Podcasts](#podcasts)
+  * [Blogs](#blogs)
+  * [Advanced Trading](#advanced-trading)
+  * [Running a Node](#running-a-node)
+  * [Visualizations](#visualizations)
+  * [Mining](#mining)
+  * [Security](#security)
+  * [Privacy](#privacy)
+  * [Lightning Network](#lightning-network)
+  * [Realtime Exchange Data](#realtime-exchange-data)
+  * [Discussion Forums](#discussion-forums)
+  * [Wallets API](#wallets-api)
+  * [Open Source Wallets](#open-source-wallets)
+  * [Blockchain Explorers](#blockchain-explorers)
+  * [Libraries](#libraries)
+   * [JavaScript Libraries](#javaScript-libraries)
+   * [PHP Libraries](#php-libraries)
+   * [Python Libraries](#python-libraries)
+   * [Java Libraries](#java-libraries)
+   * [.Net Libraries](#.net-libraries)
+  * [Playgrounds](#playgrounds)
+  * [Articles](#articles)
+  * [Extras](#extras)
 * [Ethereum](#ethereum)
 * [Cryptography](#cryptography)
 * [Economics](#economics)
@@ -155,7 +174,7 @@ Future ideas for expanding this resource:
 * [Bitcoin's Family Tree](http://mapofcoins.com/bitcoin)
 * [Princeton on the History of Cryptocurrencies (video lecture)](https://www.youtube.com/watch?v=1VYs_zZsorU)
 
-## Deep Dive Technical Resources
+## Technical Resources
 * [Bitcoin & Cryptocurrency Technologies (Princeton's 300 page textbook)](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf)
 * [Bitcoin Developer Guide](https://bitcoin.org/en/developer-guide)
 * [Bitcoin Ninja](http://bitcoin.ninja/)
@@ -366,7 +385,9 @@ Future ideas for expanding this resource:
 * [Blockexplorer.com](https://github.com/bitcoin-blockexplorer/old-blockexplorer-php)
 * [Smartbit](https://www.smartbit.com.au)
 
-## JavaScript Libraries
+## Libraries
+
+### JavaScript Libraries
 * [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs)
 * [Bitcore Library](https://github.com/bitpay/bitcore-lib)
 * [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib)
@@ -374,24 +395,24 @@ Future ideas for expanding this resource:
 * [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs)
 * [bcoin](https://github.com/bcoin-org/bcoin) Javascript bitcoin library for node.js and browsers 
 
-## PHP Libraries
+### PHP Libraries
 * [PHP-OP_RETURN](https://github.com/coinspark/php-OP_RETURN)
 * [BlockTrail PHP SDK](https://github.com/blocktrail/blocktrail-sdk-php)
 
-## Ruby Libraries
+### Ruby Libraries
 * [Bitcoin-ruby](https://github.com/lian/bitcoin-ruby)
 
-## Python Libraries
+### Python Libraries
 * [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python)
 * [btctxstore](https://github.com/F483/btctxstore) simple library to store/retrieve information in bitcoin transactions using OP_RETURN
 * [pybitcointools](https://github.com/vbuterin/pybitcointools) Python library for Bitcoin signatures and transactions from Vitalik Buterin. Not really maintained
 * [pycoin](https://github.com/richardkiss/pycoin) Python library for Bitcoin keys, signatures, transactions. Includes full VM implementation and tools for manipulating keys (ku) and transactions (tx).
 
-## Java Libraries
+### Java Libraries
 * [BitcoinJ](https://bitcoinj.github.io)
 * [XChange](https://github.com/timmolter/XChange) Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.
 
-## .Net Libraries
+### .Net Libraries
 * [NBitcoin](https://github.com/MetacoSA/NBitcoin)Comprehensive Bitcoin library for the .NET framework.
 * [BitcoinLib](https://github.com/GeorgeKimionis/BitcoinLib) The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
 * [QBitNinja](https://github.com/MetacoSA/QBitNinja) An Open Source and powerful blockchain API
@@ -640,4 +661,13 @@ Broader Tech Content:
 
 Challenges of building reliable oracles: https://www.infoq.com/presentations/blockchain-oracle-problems
 
+To do: 
+- Create table of contents
+- Organize resources
+- Add additional resources 
+
+Future ideas for expanding this resource:
+- List of blockchain startups (and specifically ones that are hiring)
+- Different software engineering positions that are in high demand in the space
+- Different use cases and value of blockchain tech (both on a personal and enterprise level)
 
