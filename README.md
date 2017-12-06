@@ -17,7 +17,8 @@ Future ideas for expanding this resource:
 
 * [General Resources](#general-resources)
 * [Computer Science](#computer-science)
-* [Cryptocurrencies](#cryptocurrencies)
+* [Bitcoin](#bitcoin)
+* [Ethereum](#ethereum)
 * [Cryptography](#cryptography)
 * [Economics](#economics)
 * [Identity](#identity)
@@ -47,22 +48,6 @@ Future ideas for expanding this resource:
 * [Bitcoin.org - Resources](https://bitcoin.org/en/resources)
 * [Decentral Station](https://decentralstation.squarespace.com/)
 
-## Education
-
-* [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/edit#gid=0)
-* [Berkeley - Secure and Intelligent Programming](http://inst.eecs.berkeley.edu/~cs294-116/fa15/)
-* [Blockchain University](http://blockchainu.co/)
-* [CCCC - Certified Bitcoin Professional](https://cryptoconsortium.org/certifications/CBP)
-* [Duke - Innovation and Cryptoventures](https://faculty.fuqua.duke.edu/~charvey/550crypto.htm)
-* [MIT - Blockchain Technologies: Decentralize All The Things](http://blockchain.media.mit.edu/)
-* [Princeton - Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/course/bitcointech)
-* [Stanford - Bitcoin and Crypto Currencies](https://crypto.stanford.edu/cs251/)
-* [Stanford - Bitcoin Engineering](http://bitcoin.stanford.edu/)
-* [The Blockchain Education Network](https://blockchainedu.org/)
-* [University of Illinois - Cryptocurrency Security](http://soc1024.ece.illinois.edu/teaching/ece598am/fall2016/)
-* [University of Nicosia - MOOC/MSc in Digital Currency](http://digitalcurrency.unic.ac.cy/)
-* [University of Maryland - Science of Cryptocurrency](http://www.cs.umd.edu/~elaine/teaching/cryptocurrency/cryptocurrency.html)
-
 ## History
 
 * [History of Bitcoin (to early 2014)](http://historyofbitcoin.org/)
@@ -84,6 +69,18 @@ Future ideas for expanding this resource:
 
 ## General
 * [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/edit#gid=0)
+* [Berkeley - Secure and Intelligent Programming](http://inst.eecs.berkeley.edu/~cs294-116/fa15/)
+* [Blockchain University](http://blockchainu.co/)
+* [CCCC - Certified Bitcoin Professional](https://cryptoconsortium.org/certifications/CBP)
+* [Duke - Innovation and Cryptoventures](https://faculty.fuqua.duke.edu/~charvey/550crypto.htm)
+* [MIT - Blockchain Technologies: Decentralize All The Things](http://blockchain.media.mit.edu/)
+* [Princeton - Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/course/bitcointech)
+* [Stanford - Bitcoin and Crypto Currencies](https://crypto.stanford.edu/cs251/)
+* [Stanford - Bitcoin Engineering](http://bitcoin.stanford.edu/)
+* [The Blockchain Education Network](https://blockchainedu.org/)
+* [University of Illinois - Cryptocurrency Security](http://soc1024.ece.illinois.edu/teaching/ece598am/fall2016/)
+* [University of Nicosia - MOOC/MSc in Digital Currency](http://digitalcurrency.unic.ac.cy/)
+* [University of Maryland - Science of Cryptocurrency](http://www.cs.umd.edu/~elaine/teaching/cryptocurrency/cryptocurrency.html)
 
 ## Data Structures
 
@@ -104,11 +101,9 @@ Future ideas for expanding this resource:
 * [State machine replication](https://en.wikipedia.org/wiki/State_machine_replication)
 * [What We Talk About When We Talk About Distibuted Systems](https://videlalvaro.github.io/2015/12/learning-about-distributed-systems.html)
 
-# Cryptocurrencies
+# Bitcoin
 
-## Bitcoin
-
-### Getting Started
+## Getting Started
 * [Explain Bitcoin Like I'm Five](https://medium.freecodecamp.org/explain-bitcoin-like-im-five-73b4257ac833)
 * [The Bitcoin Whitepaper written by Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)
 * [The Value of Blockchains](https://www.youtube.com/watch?v=YIVAluSL9SU)
@@ -121,7 +116,8 @@ Future ideas for expanding this resource:
 * [Beginner's Guide to Bitcoin by CoinDesk](https://www.coindesk.com/information/)
 * [Bitcoin is Like...](http://blog.oleganza.com/post/85111558553/bitcoin-is-like)
 
-### Online Courses
+## Online Courses
+
 * [Coursera Cryptocurrency Course (61 videos in 11 sections)](https://www.coursera.org/learn/cryptocurrency)
 * [Khan Academy Bitcoin Course (9 ~10 minute videos)](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it)
 * [Bitcoin 101 Blackboard Series (7+ hours of tutorials)](https://www.youtube.com/playlist?list=PLzctEq7iZD-7-DgJM604zsndMapn9ff6q)
@@ -129,7 +125,7 @@ Future ideas for expanding this resource:
 * [Introduction to Digital Currency - MOOC offered by University of Nicosia](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/)
 * [Bitcoin and Cryptocurrency Technologies Online Course](https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ)
 
-### Documentaries
+## Documentaries
 * [Banking on Bitcoin](https://gostream.is/film/banking-on-bitcoin-18789/watching.html?ep=704633)
 * [Bitcoin Films](http://bitcoinfilm.org/documentaries/)
 * [Bitcoin in Uganda](https://www.youtube.com/watch?v=BrRXP1tp6Kw)
@@ -144,20 +140,20 @@ Future ideas for expanding this resource:
 * [Ulterior States](https://www.youtube.com/watch?time_continue=3&v=yQGQXy0RIIo)
 
 
-### Deep Dive Technical Resources
+## Deep Dive Technical Resources
 
-### History of Bitcoin
+## History of Bitcoin
 
-### Podcasts
+## Podcasts
 
 * [Bitcoin Uncensored](https://soundcloud.com/bitcoinuncensored/)
 * [Epicenter](https://epicenter.tv)
 * [Let's Talk Bitcoin](https://letstalkbitcoin.com/)
 * [The Bitcoin Knowledge Podcast](http://bitcoin.kn/)
 
-### Blogs
+## Blogs
 
-### Running a Node
+## Running a Node
 
 * [Why Run a Full Node?](https://medium.com/@lopp/securing-your-financial-sovereignty-3af6fe834603)
 * [How to Run a Full Node](https://bitcoin.org/en/full-node)
@@ -165,7 +161,7 @@ Future ideas for expanding this resource:
 * [Bitseed Node Hardware](https://bitseed.org/product/core/)
 * [Incomplete functions for you to solve which demonstrate various aspects of a full node in a simplified way (python)](https://github.com/jimmysong/devplusplus)
 
-### Visualizations
+## Visualizations
 * [Bitcoin City](http://bitcoincity.info/)
 * [Blocks & Transactions by Geography](https://blocks.wizb.it/#)
 * [Bitcoin Globe Transactions](http://bitcoinglobe.com/)
@@ -183,13 +179,13 @@ Future ideas for expanding this resource:
 * [Fiat Leak - Realtime Exchange Flows](http://fiatleak.com/)
 * [Blockchain 3D Explorer 3D and VR visualizations of bitcoin transactions](http://blockchain3d.info/)
 
-### Mining
+## Mining
 
-### Security
+## Security
 
-### Privacy
+## Privacy
 
-### Lightning Network
+## Lightning Network
 
 * [Explained in Layman's Terms](https://letstalkbitcoin.com/blog/post/the-lightning-network-elidhdicacs)
 * [Technical Specifications (BOLTs)](https://github.com/lightningnetwork/lightning-rfc/blob/master/00-introduction.md)
@@ -199,7 +195,7 @@ Future ideas for expanding this resource:
 * [Andreas Antonopolous on Bitcoin, Lightning, and Streaming Money](https://www.youtube.com/watch?v=gF_ZQ_eijPs)
 * [The Lightning Network (Bitcoin Q&A) by Andreas Antonopolous](https://www.youtube.com/watch?v=vPnO9ExJ50A)
 
-### Realtime Exchange Data:
+## Realtime Exchange Data:
 * [All Market Tickers in One Chart](https://bitcoin.clarkmoody.com/tickers/)
 * [All Crypto Market Caps](https://coinmarketcap.com/)
 * [Crypto Market Cap Visualization](http://cryptomaps.org/)
@@ -212,7 +208,7 @@ Future ideas for expanding this resource:
 * [Cryptowatch](https://cryptowat.ch/)
 * [Winklevoss Price Index](http://winkdex.com/)
 
-### Discussion Forums
+## Discussion Forums
 
 * [Bitcoin Subreddit](https://www.reddit.com/r/Bitcoin/)
 * [Bitcoin Beginners Subreddit](https://www.reddit.com/r/BitcoinBeginners/)
@@ -222,15 +218,15 @@ Future ideas for expanding this resource:
 * [Bitcoin Talk Forum](https://bitcointalk.org/)
 * [Bitcoin Development Mailing List](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev)
 
-### Books
+## Books
 
 * [Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf?a=1)
 * [Mastering Bitcoin](http://chimera.labs.oreilly.com/books/1234000001802/index.html)
 
-### Articles
+## Articles
 * [Changing dynamics of Bitcoin ecosystem](https://medium.com/@rusty_lightning/the-three-economic-eras-of-bitcoin-d43bf0cf058a)
 
-### Extras 
+## Extras 
 
 * [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
 * [Awesome Bitcoin](https://github.com/JoshuaEstes/awesome-bitcoin)
@@ -246,7 +242,7 @@ Future ideas for expanding this resource:
 * [Programming Bitcoin Reading List](https://github.com/jashmenn/bitcoin-reading-list)
 * [How can I contribute?](https://bitcoincore.org/en/contribute/)
 
-## Ethereum
+# Ethereum
 
 * [Awesome Ethereum](https://github.com/btomashvili/awesome-ethereum)
 * [Awesome Ethereum](https://github.com/vinsgo/awesome-ethereum)
