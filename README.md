@@ -165,7 +165,7 @@ Future ideas for expanding this resource:
 * [Comprehensive Academic Bitcoin Research Archive](https://cdecker.github.io/btcresearch/)
 * [How the Bitcoin Protocol Actually Works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
 * [Learning Bitcoin from the Command Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line)
-* [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc) by Andreas Antonopolous
+* [Mastering Bitcoin by Andreas Antonopolous](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc)
 * [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) An in-depth technical book with rich illustrations.
 * [Epic List of Bitcoin Books](https://github.com/Xel/Blockchain-stuff#bitcoin)
 * [Epic List of Many Blockchain Books](https://github.com/Xel/Blockchain-stuff#blockchain-books)
@@ -258,6 +258,27 @@ Future ideas for expanding this resource:
 * [Vinny Lingham](https://vinnylingham.com/)
 * [Willy Woo](http://woobull.com/)
 * [Wladimir van der Laan](https://laanwj.github.io/)
+
+## Advanced Trading
+* [The Bitcoin Pub's video training series](https://thebitcoin.pub/t/bitcoin-beginners-help-start-here-10-step-guide/27)
+* [Intro to Crypto Trading](https://alunacrypto.blogspot.sg/2016/03/bitcoin-altcoins-trading-complete-guide-cryptocurrency-tutorial-trading-strategy-fundamental-analysis-technical-analysis.html)
+* [An Overview of Cryptocurrencies for the Savvy Investor](https://hackernoon.com/all-you-need-to-know-about-cryptocurrencies-an-overview-for-the-savvy-investor-bdc035b14982)
+* [Comparisons of coins, exchanges, wallets](https://www.cryptocompare.com/)
+* [CoinGecko coin statistics](https://www.coingecko.com/en)
+* [BitInfoCharts coin statistics](https://bitinfocharts.com/)
+* [BitcoinMarkets Reddit community](https://www.reddit.com/r/BitcoinMarkets/)
+* [BitcoinMarkets flair stats](https://coinsight.org/flairgame)
+* [Podcast: Magic Internet Money](https://chatwithtraders.com/ep-134-btcvix/)
+* [Podcast: BTCVIX](https://chatwithtraders.com/ep-053-btcvix/)
+* [Sifr Data - Financial Analytics](https://www.sifrdata.com/)
+* [Twitter Mention Stats](https://cointrading.ninja/sentiment)
+* [Realtime Twitter Sentiment](http://www.sygnals.io/)
+* [TradingView](https://www.tradingview.com/markets/cryptocurrencies/)
+* [Volatility Index](http://btcvol.info)
+* [Whale Calls - large market movements](http://whalecalls.io)
+* [WhalePool trading community](https://www.whalepool.io/)
+* [Whaleclub Telegram community](http://telegram.whaleclub.io/)
+* [Woobull Charts](http://charts.woobull.com/)
 
 ## Running a Node
 
