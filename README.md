@@ -48,12 +48,6 @@ Future ideas for expanding this resource:
 * [Bitcoin.org - Resources](https://bitcoin.org/en/resources)
 * [Decentral Station](https://decentralstation.squarespace.com/)
 
-## History
-
-* [History of Bitcoin (to early 2014)](http://historyofbitcoin.org/)
-* [History of Cryptocurrencies (video)](https://www.youtube.com/watch?v=1VYs_zZsorU)
-* [The Blockchain Timeline](https://blog.gem.co/the-blockchain-timeline-3fdffe281378#.liq52jq7g)
-
 ## Smart Contracts and DApps
 
 * [A Brief Introduction to Smart Contracts (Charles Hoskinson)](https://www.youtube.com/watch?v=3bY66Zgr8Cs&index=3&list=PLe9AlNDGZKvBWrkf-tKgEJsu2Y_vrBgwv)
@@ -179,7 +173,7 @@ Future ideas for expanding this resource:
 * [How the Bitcoin Protocol Actually Works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
 * [Learning Bitcoin from the Command Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line)
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc) by Andreas Antonopolous
-* [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin)
+* [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) An in-depth technical book with rich illustrations.
 * [Epic List of Bitcoin Books](https://github.com/Xel/Blockchain-stuff#bitcoin)
 * [Epic List of Many Blockchain Books](https://github.com/Xel/Blockchain-stuff#blockchain-books)
 * [Programming the Blockchain in C#](https://programmingblockchain.gitbooks.io/programmingblockchain/content/)
@@ -189,6 +183,20 @@ Future ideas for expanding this resource:
 * [Bitcoin's Balance of Power](https://medium.com/@AudunGulbrands1/the-bitcoin-balance-of-power-poster-91271ab31b86)
 
 ## History of Bitcoin
+* [The Rise of the Cypherpunks](http://www.coindesk.com/the-rise-of-the-cypherpunks/)
+* [Cypherpunk Research Archive](https://github.com/tombusby/cypherpunk-research)
+* [Complete Writings of Satoshi Nakamoto](http://satoshi.nakamotoinstitute.org/)
+* [The Book of Satoshi](http://www.bookofsatoshi.com/)
+* [Original Announcement Email Thread](https://www.mail-archive.com/search?l=cryptography%40metzdowd.com&q=subject:%22Bitcoin+P2P+e%5C-cash+paper%22&o=oldest&f=1)
+* [Historical Literature - work that preceded Bitcoin](http://nakamotoinstitute.org/literature/)
+* [Digital Gold](https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent/dp/006236250X)
+* [The Bitcoin Standard](https://www.amazon.com/Bitcoin-Standard-Sound-Money-Digital/dp/1119473861)
+* [The Age of Cryptocurrency](https://www.amazon.com/Age-Cryptocurrency-Bitcoin-Challenging-Economic/dp/1250065631/)
+* [History Timeline](http://historyofbitcoin.org/)
+* [Bryan Bishop's Bitcoin Event Transcripts](http://diyhpl.us/wiki/transcripts/)
+* [Premature Obituaries](https://99bitcoins.com/bitcoinobituaries/)
+* [Bitcoin's Family Tree](http://mapofcoins.com/bitcoin)
+* [Princeton on the History of Cryptocurrencies (video lecture)](https://www.youtube.com/watch?v=1VYs_zZsorU)
 
 ## Podcasts
 
