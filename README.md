@@ -118,6 +118,18 @@ Future ideas for expanding this resource:
 * [State machine replication](https://en.wikipedia.org/wiki/State_machine_replication)
 * [What We Talk About When We Talk About Distibuted Systems](https://videlalvaro.github.io/2015/12/learning-about-distributed-systems.html)
 
+## Cryptography
+
+* [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/)
+* [Coursera - Cryptography 1](https://www.coursera.org/learn/crypto)
+* [Cryptographic Hash Functions (Wikipedia)](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
+* [Elliptic Curve Cryptography - A Gentle Introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
+* [Matthew Green - Cryptography Resources](http://blog.cryptographyengineering.com/p/useful-cryptography-resources.html)
+* [The Matasano Crypto Challenges](http://cryptopals.com/)
+* [The Math Behind Bitcoin](http://www.coindesk.com/math-behind-bitcoin/)
+* [Understanding Cryptography](http://crypto-textbook.com/)
+* [Zero Knowledge Proofs - An Illustrated Primer](http://blog.cryptographyengineering.com/2014/11/zero-knowledge-proofs-illustrated-primer.html)
+
 # Bitcoin
 
 ## Getting Started
@@ -349,18 +361,6 @@ Future ideas for expanding this resource:
 * [Solidity Workshop](https://github.com/androlo/solidity-workshop)
 * [State of the Dapps](http://dapps.ethercasts.com/)
 * [Swarm](http://swarm-guide.readthedocs.io/en/latest/)
-
-# Cryptography
-
-* [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/)
-* [Coursera - Cryptography 1](https://www.coursera.org/learn/crypto)
-* [Cryptographic Hash Functions (Wikipedia)](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
-* [Elliptic Curve Cryptography - A Gentle Introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
-* [Matthew Green - Cryptography Resources](http://blog.cryptographyengineering.com/p/useful-cryptography-resources.html)
-* [The Matasano Crypto Challenges](http://cryptopals.com/)
-* [The Math Behind Bitcoin](http://www.coindesk.com/math-behind-bitcoin/)
-* [Understanding Cryptography](http://crypto-textbook.com/)
-* [Zero Knowledge Proofs - An Illustrated Primer](http://blog.cryptographyengineering.com/2014/11/zero-knowledge-proofs-illustrated-primer.html)
 
 # Economics
 
