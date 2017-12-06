@@ -115,7 +115,7 @@ Future ideas for expanding this resource:
 
 # Computer Science
 
-# General
+## General
 * [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/edit#gid=0)
 
 ## Data Structures
