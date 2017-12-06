@@ -15,7 +15,6 @@ Future ideas for expanding this resource:
 
 # Contents
 
-* [Tutorials](#tutorials)
 * [General Resources](#general-resources)
 * [Computer Science](#computer-science)
 * [Cryptocurrencies](#cryptocurrencies)
@@ -28,35 +27,11 @@ Future ideas for expanding this resource:
 * [Solutions](#solutions)
 * [Technologies](#technologies)
 
-# Tutorials
-
-* [Let’s build a blockchain (ruby)](https://github.com/Haseeb-Qureshi/lets-build-a-blockchain)
-
 # General Resources: 
 
-## Books
+## Tutorials
 
-* [Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf?a=1)
-* [Mastering Bitcoin](http://chimera.labs.oreilly.com/books/1234000001802/index.html)
-
-## Charts and Data
-
-* [Bitcoin Average](https://bitcoinaverage.com)
-* [Bitcoin Charts](http://bitcoincharts.com/)
-* [Bitcoin Wisdom](https://bitcoinwisdom.com/)
-* [Bitcoinity](http://bitcoinity.org/markets)
-* [BitinfoCharts](https://bitinfocharts.com/)
-* [Bitnodes](https://bitnodes.21.co/)
-* [Coinmarketcap](http://coinmarketcap.com/)
-* [Coin Dance](https://coin.dance/)
-* [Cryptocoin Charts](http://www.cryptocoincharts.info/)
-* [Cryptocompare](https://www.cryptocompare.com/)
-* [CryptoIndex](http://cryptoindex.com)
-* [Cryptomon](https://cryptomon.io/)
-* [Cryptowatch](https://cryptowat.ch/)
-* [Smartbit - Charts](https://www.smartbit.com.au/charts)
-* [TradeBlock](https://tradeblock.com/markets)
-* [Trading View](https://www.tradingview.com/chart/)
+* [Let’s build a blockchain (ruby)](https://github.com/Haseeb-Qureshi/lets-build-a-blockchain)
 
 ## Collections
 
@@ -71,14 +46,6 @@ Future ideas for expanding this resource:
 * [The Bitcoin Ecosystem](http://thebitcoinecosystem.info/)
 * [Bitcoin.org - Resources](https://bitcoin.org/en/resources)
 * [Decentral Station](https://decentralstation.squarespace.com/)
-
-## Documentaries
-
-* [Bitcoin: The End of Money As We Know It](https://vimeo.com/ondemand/bitcoin)
-* [BitcoinFilm.org](http://bitcoinfilm.org/)
-* [The Bitcoin Doco](http://thebitcoindoco.com/)
-* [The Bitcoin Phenomenon](https://www.youtube.com/watch?v=6pWblf8COH4)
-* [Ulterior States](http://www.iamsatoshi.com/)
 
 ## Education
 
@@ -176,6 +143,7 @@ Future ideas for expanding this resource:
 * [The Rise and Rise of Bitcoin](http://bitcoindoc.com/)
 * [Ulterior States](https://www.youtube.com/watch?time_continue=3&v=yQGQXy0RIIo)
 
+
 ### Deep Dive Technical Resources
 
 ### History of Bitcoin
@@ -197,6 +165,24 @@ Future ideas for expanding this resource:
 * [Bitseed Node Hardware](https://bitseed.org/product/core/)
 * [Incomplete functions for you to solve which demonstrate various aspects of a full node in a simplified way (python)](https://github.com/jimmysong/devplusplus)
 
+### Visualizations
+* [Bitcoin City](http://bitcoincity.info/)
+* [Blocks & Transactions by Geography](https://blocks.wizb.it/#)
+* [Bitcoin Globe Transactions](http://bitcoinglobe.com/)
+* [BitBonkers Blocks & Transactions](https://bitbonkers.com/)
+* [Chainflyer Blocks & Transactions](https://chainflyer.bitflyer.jp/)
+* [Live Node Geographic Map](https://bitnodes.earn.com/nodes/live-map/)
+* [Live Node Network ASN Map](https://bitnodes.earn.com/nodes/network-map/)
+* [Bitforce5 Transaction Relationships](http://bitforce5.com/)
+* [Daily Blockchain Transactions Relationships](https://dailyblockchain.github.io/)
+* [BitListen - Transactions by Value](http://www.bitlisten.com/)
+* [Bitcoin Monitor - Transactions by Value](https://www.bitcoinmonitor.com/)
+* [Federal Bitcoin - Transactions by Value](https://federalbitcoin.herokuapp.com/)
+* [Interaqt - Transactions by Value](http://bitcoin.interaqt.nl/)
+* [Value Visualizer - Transactions by Value](https://bitcoinvisual.herokuapp.com/)
+* [Fiat Leak - Realtime Exchange Flows](http://fiatleak.com/)
+* [Blockchain 3D Explorer 3D and VR visualizations of bitcoin transactions](http://blockchain3d.info/)
+
 ### Mining
 
 ### Security
@@ -213,6 +199,19 @@ Future ideas for expanding this resource:
 * [Andreas Antonopolous on Bitcoin, Lightning, and Streaming Money](https://www.youtube.com/watch?v=gF_ZQ_eijPs)
 * [The Lightning Network (Bitcoin Q&A) by Andreas Antonopolous](https://www.youtube.com/watch?v=vPnO9ExJ50A)
 
+### Realtime Exchange Data:
+All Market Tickers in One Chart
+All Crypto Market Caps
+Crypto Market Cap Visualization
+Bitcoinity
+Bitcoin Average
+Bitcoin Market Metrics
+Bitcoin Wisdom
+Blockchain.info
+CoinDesk Bitcoin Price Index
+Cryptowatch
+Winklevoss Price Index
+
 ### Discussion Forums
 
 * [Bitcoin Subreddit](https://www.reddit.com/r/Bitcoin/)
@@ -222,6 +221,11 @@ Future ideas for expanding this resource:
 * [Bitcoin Core Telegram](https://t.me/BitcoinCore)
 * [Bitcoin Talk Forum](https://bitcointalk.org/)
 * [Bitcoin Development Mailing List](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev)
+
+### Books
+
+* [Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf?a=1)
+* [Mastering Bitcoin](http://chimera.labs.oreilly.com/books/1234000001802/index.html)
 
 ### Articles
 * [Changing dynamics of Bitcoin ecosystem](https://medium.com/@rusty_lightning/the-three-economic-eras-of-bitcoin-d43bf0cf058a)
@@ -459,7 +463,6 @@ Future ideas for expanding this resource:
 
 * [Lightning Network](https://lightning.network/)
 * [Payment Channels]()
-
 
 Important Github Links:
 
