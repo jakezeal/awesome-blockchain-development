@@ -218,6 +218,65 @@ Future ideas for expanding this resource:
 * [Bitcoin Talk Forum](https://bitcointalk.org/)
 * [Bitcoin Development Mailing List](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev)
 
+## Wallets API
+* [BitGo](https://www.bitgo.com/api/)
+* [Coinbase](https://developers.coinbase.com)
+* [Blockchain.info](https://blockchain.info/api)
+* [BIP32](http://bip32.org)
+
+## Open Source Wallets
+* [CoPay by BitPay](https://copay.io/)
+* [CoinPunk](https://coinpunk.com/)
+* [Coinb.in](https://coinb.in)
+* [Electrum](https://electrum.org/)
+
+## Blockchain Explorers
+* [Chain.so](http://chain.so)
+* [Blockchain.info](https://blockchain.info)
+* [BlockTrail](https://www.blocktrail.com/BTC) 
+* [Blockr](https://blockr.io)
+* [Bitcoin Transaction Explorer](https://github.com/JornC/bitcoin-transaction-explorer)
+* [Blockexplorer.com](https://github.com/bitcoin-blockexplorer/old-blockexplorer-php)
+* [Smartbit](https://www.smartbit.com.au)
+
+## JavaScript Libraries
+* [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs)
+* [Bitcore Library](https://github.com/bitpay/bitcore-lib)
+* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib)
+* [Cryptocoin](https://github.com/cryptocoinjs/cryptocoin)
+* [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs)
+* [bcoin](https://github.com/bcoin-org/bcoin) Javascript bitcoin library for node.js and browsers 
+
+## PHP Libraries
+* [PHP-OP_RETURN](https://github.com/coinspark/php-OP_RETURN)
+* [BlockTrail PHP SDK](https://github.com/blocktrail/blocktrail-sdk-php)
+
+## Ruby Libraries
+* [Bitcoin-ruby](https://github.com/lian/bitcoin-ruby)
+
+## Python Libraries
+* [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python)
+* [btctxstore](https://github.com/F483/btctxstore) simple library to store/retrieve information in bitcoin transactions using OP_RETURN
+* [pybitcointools](https://github.com/vbuterin/pybitcointools) Python library for Bitcoin signatures and transactions from Vitalik Buterin. Not really maintained
+* [pycoin](https://github.com/richardkiss/pycoin) Python library for Bitcoin keys, signatures, transactions. Includes full VM implementation and tools for manipulating keys (ku) and transactions (tx).
+
+## Java Libraries
+* [BitcoinJ](https://bitcoinj.github.io)
+* [XChange](https://github.com/timmolter/XChange) Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.
+
+## .Net Libraries
+* [NBitcoin](https://github.com/MetacoSA/NBitcoin)Comprehensive Bitcoin library for the .NET framework.
+* [BitcoinLib](https://github.com/GeorgeKimionis/BitcoinLib) The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
+* [QBitNinja](https://github.com/MetacoSA/QBitNinja) An Open Source and powerful blockchain API
+
+## Playgrounds
+* [Script Playground](http://www.crmarsh.com/script-playground/)
+* [Bitcoin IDE](http://www.cs.princeton.edu/~tongbinw/bitcoinIDE/build/editor.html) Bitcoin Script for dummies
+* [Debug Script Execution](https://webbtc.com/script)
+* [Bitcore Playground](https://bitcore.io/playground/)
+* [Mnemonic Code generator](https://dcpos.github.io/bip39/)
+* [blockchain-demo](https://github.com/anders94/blockchain-demo/) A web-based demonstration of blockchain concepts
+
 ## Books
 
 * [Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf?a=1)
