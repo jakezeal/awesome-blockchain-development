@@ -229,6 +229,36 @@ Future ideas for expanding this resource:
 
 ## Blogs
 
+* [Bitcoin Tech Talk (Various)](https://bitcointechtalk.com/)
+* [BitFury Research](http://bitfury.com/white-papers-research)
+* [BitMEX Research](https://blog.bitmex.com/category/research/?lang=en_us)
+* [Bitslog (Sergio Demian Lerner)](https://bitslog.wordpress.com/)
+* [Chris Burniske](https://medium.com/@cburniske)
+* [The Control (Nick Tomaino)](https://thecontrol.co/)
+* [Eric Lombrozo](https://medium.com/@elombrozo)
+* [Financial Cryptography (Ian Grigg)](http://financialcryptography.com/)
+* [Fred Wilson](http://avc.com/?s=bitcoin)
+* [Freedom to Tinker](https://freedom-to-tinker.com/tag/bitcoin/)
+* [Gavin Andresen](http://gavinandresen.ninja/)
+* [Hacking, Distributed (Emin Gün Sirer)](http://hackingdistributed.com/)
+* [Jimmy Song](https://medium.com/@jimmysong)
+* [JP Koning](https://jpkoning.blogspot.ca/search/label/bitcoin)
+* [Matt Corallo](http://bluematt.bitcoin.ninja/)
+* [The Memory Pool (Satoshi Nakamoto Institute)](http://nakamotoinstitute.org/mempool/)
+* [Money and State (Erik Voorhees)](http://moneyandstate.com/)
+* [Nicolas Dorier](https://medium.com/@nicolasdorier)
+* [nopara73](https://medium.com/@nopara73)
+* [Oleg Andreev](http://blog.oleganza.com/)
+* [Peter Todd](https://petertodd.org/)
+* [Richard Gendal Brown](https://gendal.me/tag/bitcoin/)
+* [Tim Swanson](http://www.ofnumbers.com/category/bitcoin/)
+* [Truthcoin (Paul Sztorc)](http://www.truthcoin.info/archive/)
+* [Tuur Demeester](https://medium.com/@tuurdemeester)
+* [Unenumerated (Nick Szabo)](http://unenumerated.blogspot.com/)
+* [Vinny Lingham](https://vinnylingham.com/)
+* [Willy Woo](http://woobull.com/)
+* [Wladimir van der Laan](https://laanwj.github.io/)
+
 ## Running a Node
 
 * [Why Run a Full Node?](https://medium.com/@lopp/securing-your-financial-sovereignty-3af6fe834603)
