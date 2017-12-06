@@ -65,10 +65,27 @@ Future ideas for expanding this resource:
 * [Smart Contracts (Nick Szabo)](http://szabo.best.vwh.net/smart.contracts.html)
 * [Smart Contracts playlist](https://www.youtube.com/watch?v=xO1AxsYAkU8&list=PLe9AlNDGZKvCKKtmV3WaHIH--C83URzhs)
 
+## Utilities
+* [Pycoin](https://github.com/richardkiss/pycoin) Python-based Bitcoin and alt-coin utility library.
+* [sx](https://github.com/spesmilo/sx/) sx - command line Bitcoin to empower the sysadmin
+* [bx](https://github.com/libbitcoin/libbitcoin-explorer) Bitcoin Command Line Tool
+* [txwatcher](https://github.com/tsileo/txwatcher)A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API and perform custom callbacks.
+* [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.
+
+## Blockchain API and Web services
+* [block.io](https://block.io)
+* [BlockCypher](http://www.blockcypher.com)
+* [Gem.co](https://gem.co)
+* [Insight](https://insight.is)
+* [Chain.com](https://chain.com)
+* [Toshi by Coinbase](https://toshi.io/)
+* [Smartbit](https://www.smartbit.com.au)
+* [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - self-hosted payment gateway.
+
 # Computer Science
 
 ## General
-* [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/edit#gid=0)
+* [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q)
 * [Berkeley - Secure and Intelligent Programming](http://inst.eecs.berkeley.edu/~cs294-116/fa15/)
 * [Blockchain University](http://blockchainu.co/)
 * [CCCC - Certified Bitcoin Professional](https://cryptoconsortium.org/certifications/CBP)
@@ -123,7 +140,7 @@ Future ideas for expanding this resource:
 * [Bitcoin 101 Blackboard Series (7+ hours of tutorials)](https://www.youtube.com/playlist?list=PLzctEq7iZD-7-DgJM604zsndMapn9ff6q)
 * [Introduction to Bitcoin (create a free trial)](https://www.pluralsight.com/courses/bitcoin-decentralized-technology)
 * [Introduction to Digital Currency - MOOC offered by University of Nicosia](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/)
-* [Bitcoin and Cryptocurrency Technologies Online Course](https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ)
+* [Princeton Video Lectures on Bitcoin and Cryptocurrency Technologies](https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ)
 
 ## Documentaries
 * [Banking on Bitcoin](https://gostream.is/film/banking-on-bitcoin-18789/watching.html?ep=704633)
@@ -139,8 +156,25 @@ Future ideas for expanding this resource:
 * [The Rise and Rise of Bitcoin](http://bitcoindoc.com/)
 * [Ulterior States](https://www.youtube.com/watch?time_continue=3&v=yQGQXy0RIIo)
 
-
 ## Deep Dive Technical Resources
+* [Bitcoin & Cryptocurrency Technologies (Princeton's 300 page textbook)](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf)
+* [Bitcoin Developer Guide](https://bitcoin.org/en/developer-guide)
+* [Bitcoin Ninja](http://bitcoin.ninja/)
+* [Bitcoin Protocol Reference](https://github.com/minium/Bitcoin-Spec/blob/master/Bitcoin.pdf)
+* [Bitcoin Stack Exchange (Technical Q & A)](https://bitcoin.stackexchange.com/)
+* [The Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
+* [Comprehensive Academic Bitcoin Research Archive](https://cdecker.github.io/btcresearch/)
+* [How the Bitcoin Protocol Actually Works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
+* [Learning Bitcoin from the Command Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line)
+* [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc) by Andreas Antonopolous
+* [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin)
+* [Epic List of Bitcoin Books](https://github.com/Xel/Blockchain-stuff#bitcoin)
+* [Epic List of Many Blockchain Books](https://github.com/Xel/Blockchain-stuff#blockchain-books)
+* [Programming the Blockchain in C#](https://programmingblockchain.gitbooks.io/programmingblockchain/content/)
+* [Using the Raw Bitcoin Protocol](http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html)
+* [A Peek Under Bitcoin's Hood](http://www.samlewis.me/2017/06/a-peek-under-bitcoins-hood/)
+* [How to Parse the Bitcoin Blockchain](https://codesuppository.blogspot.jp/2014/01/how-to-parse-bitcoin-blockchain.html)
+* [Bitcoin's Balance of Power](https://medium.com/@AudunGulbrands1/the-bitcoin-balance-of-power-poster-91271ab31b86)
 
 ## History of Bitcoin
 
@@ -276,11 +310,6 @@ Future ideas for expanding this resource:
 * [Bitcore Playground](https://bitcore.io/playground/)
 * [Mnemonic Code generator](https://dcpos.github.io/bip39/)
 * [blockchain-demo](https://github.com/anders94/blockchain-demo/) A web-based demonstration of blockchain concepts
-
-## Books
-
-* [Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf?a=1)
-* [Mastering Bitcoin](http://chimera.labs.oreilly.com/books/1234000001802/index.html)
 
 ## Articles
 * [Changing dynamics of Bitcoin ecosystem](https://medium.com/@rusty_lightning/the-three-economic-eras-of-bitcoin-d43bf0cf058a)
