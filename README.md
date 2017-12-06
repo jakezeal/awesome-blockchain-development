@@ -160,8 +160,21 @@ Future ideas for expanding this resource:
 * [Bitcoin 101 Blackboard Series (7+ hours of tutorials)](https://www.youtube.com/playlist?list=PLzctEq7iZD-7-DgJM604zsndMapn9ff6q)
 * [Introduction to Bitcoin (create a free trial)](https://www.pluralsight.com/courses/bitcoin-decentralized-technology)
 * [Introduction to Digital Currency - MOOC offered by University of Nicosia](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/)
+* [Bitcoin and Cryptocurrency Technologies Online Course](https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ)
 
 ### Documentaries
+* [Banking on Bitcoin](https://gostream.is/film/banking-on-bitcoin-18789/watching.html?ep=704633)
+* [Bitcoin Films](http://bitcoinfilm.org/documentaries/)
+* [Bitcoin in Uganda](https://www.youtube.com/watch?v=BrRXP1tp6Kw)
+* [Bitcoin: The End of Money as We Know It](https://www.youtube.com/watch?v=Wsa71p-TVok)
+* [Hash Power](http://investorfieldguide.com/hashpower/)
+* [Inside Man (Morgan Spurlock)](http://www.disclose.tv/action/viewvideo/198650/Morgan_Spurlock__Living_On_Bitcoin__The_Inside_Man_Bitcoin_CNN_Full_Documentary/)
+* [Life Inside a Secret Chinese Bitcoin Mine](https://www.youtube.com/watch?v=K8kua5B5K3I)
+* [The Bitcoin Doco](http://thebitcoindoco.com/?p=202)
+* [The Bitcoin Gospel](https://www.youtube.com/watch?v=2I6dXRK9oJo)
+* [The Bitcoin Phenomenon](https://www.youtube.com/watch?v=6pWblf8COH4)
+* [The Rise and Rise of Bitcoin](http://bitcoindoc.com/)
+* [Ulterior States](https://www.youtube.com/watch?time_continue=3&v=yQGQXy0RIIo)
 
 ### Deep Dive Technical Resources
 
