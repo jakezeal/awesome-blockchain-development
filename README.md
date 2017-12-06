@@ -17,6 +17,16 @@ Future ideas for expanding this resource:
 
 * [Tutorials](#tutorials)
 * [General Resources](#general-resources)
+* [Computer Science](#computer-science)
+* [Cryptocurrencies](#cryptocurrencies)
+* [Cryptography](#cryptography)
+* [Economics](#economics)
+* [Identity](#identity)
+* [Infrastructure](#infrastructure)
+* [Investors](#investors)
+* [Research](#research)
+* [Solutions](#solutions)
+* [Technologies](#technologies)
 
 # Tutorials
 
@@ -336,6 +346,8 @@ Future ideas for expanding this resource:
 * [The Initiative for Cryptocurrencies and Contracts](http://www.initc3.org/index.html)
 * [UCL Centre for Blockchain Technologies](http://blockchain.cs.ucl.ac.uk/)
 
+# Solutions
+
 ## Analytics and Compliance
 
 * [BlockSeer](https://www.blockseer.com/)
@@ -398,6 +410,8 @@ Future ideas for expanding this resource:
 * [Lisk](https://lisk.io/)
 * [Rootstock](http://www.rootstock.io/)
 * [SmartContract](http://about.smartcontract.com/)
+
+# Technologies
 
 ## Cross-chain Solutions
 
