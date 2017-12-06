@@ -141,30 +141,25 @@ Future ideas for expanding this resource:
 
 ## Bitcoin
 
-### General 
-
-* [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
-* [Awesome Bitcoin](https://github.com/JoshuaEstes/awesome-bitcoin)
-* [Awesome Bitcoin Developer](https://github.com/btcbrdev/awesome-btcdev)
-* [Bitcoin.com](http://bitcoin.com/)
-* [Bitcoin.org](https://bitcoin.org)
-* [Bitcoin Core](https://bitcoincore.org/)
-* [Bitcoin Foundation](https://bitcoinfoundation.org/)
-* [Bitcoin Github](https://github.com/bitcoin)
-* [Bitcoin Reddit](https://www.reddit.com/r/Bitcoin/)
-* [Bitcoin Talk](https://bitcointalk.org/)
-* [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
-* [BTC Reddit](https://www.reddit.com/r/btc/)
-* [Coin Center](http://coincenter.org/)
-* [Open Bitcoin Privacy Project](http://www.openbitcoinprivacyproject.org/)
-* [Programming Bitcoin Reading List](https://github.com/jashmenn/bitcoin-reading-list)
-
-### Articles
-* [Changing dynamics of Bitcoin ecosystem](https://medium.com/@rusty_lightning/the-three-economic-eras-of-bitcoin-d43bf0cf058a)
-
 ### Getting Started
+* [Explain Bitcoin Like I'm Five](https://medium.freecodecamp.org/explain-bitcoin-like-im-five-73b4257ac833)
+* [The Bitcoin Whitepaper written by Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)
+* [The Value of Blockchains](https://www.youtube.com/watch?v=YIVAluSL9SU)
+* [How Bitcoin Works (non technical) (5 min video)](https://www.youtube.com/watch?v=t5JGQXCTe3c)
+* [How Bitcoin Works (a bit technical) (5 min video)](https://www.youtube.com/watch?v=l9jOJk30eQs)
+* [How Bitcoin Works (very technical) (26 min video)](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
+* [How Bitcoin Works Under the Hood (22 min video)](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+* [Bitcoin 101 (Balaji Srinivasan)](https://www.youtube.com/watch?v=JIxwTx7o_B4)
+* [Bitcoin for Beginners (Andreas Antonopoulos)](https://www.youtube.com/playlist?list=PLPQwGV1aLnTuN6kdNWlElfr2tzigB9Nnj)
+* [Beginner's Guide to Bitcoin by CoinDesk](https://www.coindesk.com/information/)
+* [Bitcoin is Like...](http://blog.oleganza.com/post/85111558553/bitcoin-is-like)
 
 ### Online Courses
+* [Coursera Cryptocurrency Course (61 videos in 11 sections)](https://www.coursera.org/learn/cryptocurrency)
+* [Khan Academy Bitcoin Course (9 ~10 minute videos)](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it)
+* [Bitcoin 101 Blackboard Series (7+ hours of tutorials)](https://www.youtube.com/playlist?list=PLzctEq7iZD-7-DgJM604zsndMapn9ff6q)
+* [Introduction to Bitcoin (create a free trial)](https://www.pluralsight.com/courses/bitcoin-decentralized-technology)
+* [Introduction to Digital Currency - MOOC offered by University of Nicosia](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/)
 
 ### Documentaries
 
@@ -206,6 +201,33 @@ Future ideas for expanding this resource:
 * [The Lightning Network (Bitcoin Q&A) by Andreas Antonopolous](https://www.youtube.com/watch?v=vPnO9ExJ50A)
 
 ### Discussion Forums
+
+* [Bitcoin Subreddit](https://www.reddit.com/r/Bitcoin/)
+* [Bitcoin Beginners Subreddit](https://www.reddit.com/r/BitcoinBeginners/)
+* [Bitcoin IRC Channel](https://webchat.freenode.net/?channels=bitcoin&uio=d4/)
+* [Bitcoin Core Slack](https://bitcoincoreslack.herokuapp.com/)
+* [Bitcoin Core Telegram](https://t.me/BitcoinCore)
+* [Bitcoin Talk Forum](https://bitcointalk.org/)
+* [Bitcoin Development Mailing List](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev)
+
+### Articles
+* [Changing dynamics of Bitcoin ecosystem](https://medium.com/@rusty_lightning/the-three-economic-eras-of-bitcoin-d43bf0cf058a)
+
+### Extras 
+
+* [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
+* [Awesome Bitcoin](https://github.com/JoshuaEstes/awesome-bitcoin)
+* [Awesome Bitcoin Developer](https://github.com/btcbrdev/awesome-btcdev)
+* [Bitcoin Core](https://bitcoincore.org/)
+* [Bitcoin Foundation](https://bitcoinfoundation.org/)
+* [Bitcoin Github](https://github.com/bitcoin)
+* [Bitcoin Reddit](https://www.reddit.com/r/Bitcoin/)
+* [Bitcoin Talk](https://bitcointalk.org/)
+* [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
+* [Coin Center](http://coincenter.org/)
+* [Open Bitcoin Privacy Project](http://www.openbitcoinprivacyproject.org/)
+* [Programming Bitcoin Reading List](https://github.com/jashmenn/bitcoin-reading-list)
+* [How can I contribute?](https://bitcoincore.org/en/contribute/)
 
 ## Ethereum
 
