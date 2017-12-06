@@ -193,6 +193,7 @@ Future ideas for expanding this resource:
 * [Lightning Resources](https://medium.com/lightning-resources)
 * [Lightning Network Developer site](http://dev.lightning.community)
 * [Andreas Antonopolous on Bitcoin, Lightning, and Streaming Money](https://www.youtube.com/watch?v=gF_ZQ_eijPs)
+* [The Lightning Network (Bitcoin Q&A) by Andreas Antonopolous](https://www.youtube.com/watch?v=vPnO9ExJ50A)
 
 ### Discussion Forums
 
