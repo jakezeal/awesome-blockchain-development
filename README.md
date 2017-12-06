@@ -200,17 +200,17 @@ Future ideas for expanding this resource:
 * [The Lightning Network (Bitcoin Q&A) by Andreas Antonopolous](https://www.youtube.com/watch?v=vPnO9ExJ50A)
 
 ### Realtime Exchange Data:
-All Market Tickers in One Chart
-All Crypto Market Caps
-Crypto Market Cap Visualization
-Bitcoinity
-Bitcoin Average
-Bitcoin Market Metrics
-Bitcoin Wisdom
-Blockchain.info
-CoinDesk Bitcoin Price Index
-Cryptowatch
-Winklevoss Price Index
+* [All Market Tickers in One Chart](https://bitcoin.clarkmoody.com/tickers/)
+* [All Crypto Market Caps](https://coinmarketcap.com/)
+* [Crypto Market Cap Visualization](http://cryptomaps.org/)
+* [Bitcoinity](http://bitcoinity.org/markets/bitstamp/USD)
+* [Bitcoin Average](https://bitcoinaverage.com/en/bitcoin-price/btc-to-usd)
+* [Bitcoin Market Metrics](https://data.bitcoinity.org/markets/volume/30d?c=e&t=b)
+* [Bitcoin Wisdom](https://bitcoinwisdom.com/)
+* [Blockchain.info](https://blockchain.info/markets/)
+* [CoinDesk Bitcoin Price Index](http://www.coindesk.com/price/)
+* [Cryptowatch](https://cryptowat.ch/)
+* [Winklevoss Price Index](http://winkdex.com/)
 
 ### Discussion Forums
 
