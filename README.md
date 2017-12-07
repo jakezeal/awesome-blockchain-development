@@ -334,6 +334,16 @@ A curated list of blockchain, cryptocurrency and fintech resources for software 
 
 ## Security
 
+* [Bitcoin's Security Model: A Deep Dive](http://www.coindesk.com/bitcoins-security-model-deep-dive/)
+* [Bitcoin Security & Storage 101 (Pamela Morgan)](https://www.youtube.com/watch?v=nYm8ROOSRCk)
+* [Coindesk's Bitcoin Storage Guide](http://www.coindesk.com/information/how-to-store-your-bitcoins/)
+* [Cryptocurrency Security Standard (for enterprises)](https://cryptoconsortium.github.io/CCSS/)
+* [Glacier: A protocol for high security Bitcoin storage](https://glacierprotocol.org/)
+* [Intro to Paper Wallets & Cold Storage (James D'Angelo)](https://www.youtube.com/watch?v=I1uefzJJ6nM)
+* [Jolly Roger's Security Guide for Beginners (online OPSEC)](https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/)
+* [Paper Wallet Cold Storage Guide](https://news.bitcoin.com/idiot-proof-vault-cold-storage-guide/)
+* [Securing Your Wallet](https://bitcoin.org/en/secure-your-wallet)
+
 ## Privacy
 
 ## Lightning Network
