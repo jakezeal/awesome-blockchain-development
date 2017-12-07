@@ -25,8 +25,7 @@ A curated list of blockchain, cryptocurrency and fintech resources for software 
   * [Lightning Network](#lightning-network)
   * [Realtime Exchange Data](#realtime-exchange-data)
   * [Discussion Forums](#discussion-forums)
-  * [Wallets API](#wallets-api)
-  * [Open Source Wallets](#open-source-wallets)
+  * [Wallets](#wallets)
   * [Blockchain Explorers](#blockchain-explorers)
   * [Libraries](#libraries)
   * [Playgrounds](#playgrounds)
@@ -274,6 +273,7 @@ A curated list of blockchain, cryptocurrency and fintech resources for software 
 * [Wladimir van der Laan](https://laanwj.github.io/)
 
 ## Advanced Trading
+
 * [The Bitcoin Pub's video training series](https://thebitcoin.pub/t/bitcoin-beginners-help-start-here-10-step-guide/27)
 * [Intro to Crypto Trading](https://alunacrypto.blogspot.sg/2016/03/bitcoin-altcoins-trading-complete-guide-cryptocurrency-tutorial-trading-strategy-fundamental-analysis-technical-analysis.html)
 * [An Overview of Cryptocurrencies for the Savvy Investor](https://hackernoon.com/all-you-need-to-know-about-cryptocurrencies-an-overview-for-the-savvy-investor-bdc035b14982)
@@ -303,6 +303,7 @@ A curated list of blockchain, cryptocurrency and fintech resources for software 
 * [Incomplete functions for you to solve which demonstrate various aspects of a full node in a simplified way (python)](https://github.com/jimmysong/devplusplus)
 
 ## Visualizations
+
 * [Bitcoin City](http://bitcoincity.info/)
 * [Blocks & Transactions by Geography](https://blocks.wizb.it/#)
 * [Bitcoin Globe Transactions](http://bitcoinglobe.com/)
@@ -321,6 +322,7 @@ A curated list of blockchain, cryptocurrency and fintech resources for software 
 * [Blockchain 3D Explorer 3D and VR visualizations of bitcoin transactions](http://blockchain3d.info/)
 
 ## Mining
+
 * [The History of Bitcoin Mining](http://forklog.net/bitcoin-mining-past-present-and-future/)
 * [How Bitcoin Mining Works (in layman's terms)](https://qz.com/154877/by-reading-this-page-you-are-mining-bitcoins/)
 * [Getting Started Guide](https://www.bitcoinmining.com/)
@@ -344,7 +346,8 @@ A curated list of blockchain, cryptocurrency and fintech resources for software 
 * [Andreas Antonopolous on Bitcoin, Lightning, and Streaming Money](https://www.youtube.com/watch?v=gF_ZQ_eijPs)
 * [The Lightning Network (Bitcoin Q&A) by Andreas Antonopolous](https://www.youtube.com/watch?v=vPnO9ExJ50A)
 
-## Realtime Exchange Data:
+## Realtime Exchange Data
+
 * [All Market Tickers in One Chart](https://bitcoin.clarkmoody.com/tickers/)
 * [All Crypto Market Caps](https://coinmarketcap.com/)
 * [Crypto Market Cap Visualization](http://cryptomaps.org/)
@@ -367,17 +370,12 @@ A curated list of blockchain, cryptocurrency and fintech resources for software 
 * [Bitcoin Talk Forum](https://bitcointalk.org/)
 * [Bitcoin Development Mailing List](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev)
 
-## Wallets API
-* [BitGo](https://www.bitgo.com/api/)
-* [Coinbase](https://developers.coinbase.com)
-* [Blockchain.info](https://blockchain.info/api)
-* [BIP32](http://bip32.org)
-
-## Open Source Wallets
-* [CoPay by BitPay](https://copay.io/)
-* [CoinPunk](https://coinpunk.com/)
-* [Coinb.in](https://coinb.in)
-* [Electrum](https://electrum.org/)
+## Wallets
+* Hardware wallet (best security): [Trezor](https://shop.trezor.io) or [Ledger Nano S](https://www.ledgerwallet.com/products/ledger-nano-s)
+* Desktop wallet: [Electrum](https://electrum.org/#home)
+* Android wallet: [Samourai Wallet](https://play.google.com/store/apps/details?id=com.samourai.wallet)
+* iPhone wallet: [GreenAddress](https://itunes.apple.com/app/id1206035886)
+* Web wallet (not recommended - worst security)
 
 ## Blockchain Explorers
 * [Chain.so](http://chain.so)
