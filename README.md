@@ -346,6 +346,13 @@ A curated list of blockchain, cryptocurrency and fintech resources for software 
 
 ## Privacy
 
+* [Open Bitcoin Privacy Project's Wallet Reviews](http://www.openbitcoinprivacyproject.org/product-reviews/)
+* [Anonymous Bitcoin Book - how to maintain your privacy](https://anonymousbitcoinbook.com/)
+* [Bitcoin.org's Privacy Guide](https://bitcoin.org/en/protect-your-privacy)
+* [How TumbleBit Works](https://joinmarket.me/blog/blog/tumblebit-for-the-tumble-curious/)
+* [How to Run Bitcoin as a Tor Hidden Service on Ubuntu](https://medium.com/@lopp/how-to-run-bitcoin-as-a-tor-hidden-service-on-ubuntu-cff52d543756)
+* [ZeroLink: The Bitcoin Fungibility Framework](https://github.com/nopara73/ZeroLink/)
+
 ## Lightning Network
 
 * [Explained in Layman's Terms](https://letstalkbitcoin.com/blog/post/the-lightning-network-elidhdicacs)
