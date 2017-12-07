@@ -321,6 +321,14 @@ A curated list of blockchain, cryptocurrency and fintech resources for software 
 * [Blockchain 3D Explorer 3D and VR visualizations of bitcoin transactions](http://blockchain3d.info/)
 
 ## Mining
+* [The History of Bitcoin Mining](http://forklog.net/bitcoin-mining-past-present-and-future/)
+* [How Bitcoin Mining Works (in layman's terms)](https://qz.com/154877/by-reading-this-page-you-are-mining-bitcoins/)
+* [Getting Started Guide](https://www.bitcoinmining.com/)
+* [Bitcoin Mining Profitability Calculator](https://bitcoinwisdom.com/bitcoin/calculator)
+* [Realtime Mining Statistics](https://bitcoinwisdom.com/bitcoin/difficulty)
+* [Cryptocoin mining relative profitability](https://www.coinwarz.com/cryptocurrency)
+* [Mining pool hashrate distribution](https://blockchain.info/pools)
+* [Organ of Corti (mining / network analysis blog)](http://organofcorti.blogspot.co.uk/)
 
 ## Security
 
@@ -408,7 +416,7 @@ A curated list of blockchain, cryptocurrency and fintech resources for software 
 * [XChange](https://github.com/timmolter/XChange) Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.
 
 ### .Net Libraries
-* [NBitcoin](https://github.com/MetacoSA/NBitcoin)Comprehensive Bitcoin library for the .NET framework.
+* [NBitcoin](https://github.com/MetacoSA/NBitcoin) Comprehensive Bitcoin library for the .NET framework.
 * [BitcoinLib](https://github.com/GeorgeKimionis/BitcoinLib) The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
 * [QBitNinja](https://github.com/MetacoSA/QBitNinja) An Open Source and powerful blockchain API
 
