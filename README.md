@@ -30,6 +30,7 @@ A curated list of blockchain, cryptocurrency and fintech resources for software 
   * [Libraries](#libraries)
   * [Playgrounds](#playgrounds)
   * [Articles](#articles)
+  * [Fork Stats](#fork-stats)
   * [Extras](#extras)
 * [Ethereum](#ethereum)
 * [Cryptography](#cryptography)
@@ -445,6 +446,15 @@ A curated list of blockchain, cryptocurrency and fintech resources for software 
 
 ## Articles
 * [Changing dynamics of Bitcoin ecosystem](https://medium.com/@rusty_lightning/the-three-economic-eras-of-bitcoin-d43bf0cf058a)
+
+## Fork Stats
+
+* [Fork Usage Comparison](https://forks.network/)
+* [Mining Stats](https://fork.lol/)
+* [Chain Split Monitor](https://www.btcforkmonitor.info/)
+* [Mempool Comparisons](https://jochen-hoenicke.de/queue/cash/#24h)
+* [Fork Support by Company](https://coin.dance/poli)
+* [BCH Node Stats](http://statocashi.info/)
 
 ## Extras 
 
