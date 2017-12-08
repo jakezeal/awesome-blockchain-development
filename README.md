@@ -41,6 +41,7 @@ A curated list of blockchain, cryptocurrency and fintech resources for software 
 * [Research](#research)
 * [Solutions](#solutions)
 * [Technologies](#technologies)
+* [Taxes](#taxes)
 
 # General Resources: 
 
@@ -678,6 +679,10 @@ A curated list of blockchain, cryptocurrency and fintech resources for software 
 * [Lightning Network](https://lightning.network/)
 * [Payment Channels]()
 
+# Taxes
+
+* [Tax Attorney on the most common questions about the taxation of bitcoin (Reddit post)](https://www.reddit.com/r/Bitcoin/comments/1uccfz/i_am_a_tax_attorney_here_are_my_answers_to_the/)
+
 Important Github Links:
 
 https://github.com/ethereum/web3.js/
@@ -688,6 +693,8 @@ This is the Ethereum compatible JavaScript API which implements the Generic JSON
 Broader Tech Content: 
 
 Challenges of building reliable oracles: https://www.infoq.com/presentations/blockchain-oracle-problems
+
+
 
 To do: 
 - Create table of contents
