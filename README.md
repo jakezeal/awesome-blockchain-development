@@ -484,9 +484,11 @@ A curated list of blockchain, cryptocurrency and fintech resources for software 
 * [Ethereum: The World Computer](https://www.youtube.com/watch?v=j23HnORQXvs)
 * [Ethereum in Layman's Terms](https://www.quora.com/Ethereum-blockchain-app-platform/What-is-Ethereum-in-laymans-term)
 * [Vitalik Buterin explains Ethereum](https://www.youtube.com/watch?v=TDGq4aeevgY)
+* [Ethereum Development Tutorial](https://github.com/ethereum/wiki/wiki/Ethereum-Development-Tutorial)
+* [Original Bitcoin Talk Post](https://bitcointalk.org/index.php?topic=428589.0)
 
 
-* [Reddit](https://www.reddit.com/r/ethereum/)
+
 * [Youtube](https://www.youtube.com/channel/UC6rYoXJ_3BbPyWx_GQDDRRQ)
 * [Twitter](https://twitter.com/ethereumproject)
 * [Facebook](https://www.facebook.com/ethereumproject)
@@ -570,13 +572,10 @@ A curated list of blockchain, cryptocurrency and fintech resources for software 
 
 ## Discussion Forums
 
-Bitcoin Subreddit
-Bitcoin Beginners Subreddit
-Bitcoin IRC Channel
-Bitcoin Core Slack
-Bitcoin Core Telegram
-Bitcoin Talk Forum
-Bitcoin Development Mailing List
+* [Ethereum Reddit](https://www.reddit.com/r/ethereum/)
+* [Ethereum IRC Channel](https://webchat.freenode.net/?channels=%23ethereum)
+* [Ethereum Gitter](https://gitter.im/ethereum/home)
+* [Ethereum Community Forum](https://forum.ethereum.org/)
 
 #### Videos
 
@@ -635,7 +634,6 @@ Bitcoin Development Mailing List
 - [Browser-Solidity : Browser based solidity contract compiler](https://github.com/chriseth/browser-solidity)
 - [Taxeme : A component of the Resilience taxation system](https://github.com/resilience-me/Taxeme)
 - [Spore : Simple package manager for dApp development ](https://github.com/mhhf/spore)
-- [Spore : Simple package manager for dApp development ](https://github.com/mhhf/spore)
 - [Etheria : The first-ever decentralized virtual world ](https://github.com/fivedogit/etheria)
 - [PublicVotes : A publicly verifiable Voting System](https://github.com/domschiener/publicvotes)
 - [Ethereum-datetime : Date-Time utilities for ethereum contracts.](https://github.com/pipermerriam/ethereum-datetime)
@@ -654,6 +652,7 @@ Bitcoin Development Mailing List
 
 ## Extras
 
+* [Tools and Technologies in the Ethereum Ecosystem](https://medium.com/blockchannel/tools-and-technologies-in-the-ethereum-ecosystem-e5b7e5060eb9)
 * [Awesome Ethereum](https://github.com/btomashvili/awesome-ethereum)
 * [Awesome Ethereum](https://github.com/vinsgo/awesome-ethereum)
 * [Awesome Ethereum](https://github.com/void4/awesome-ethereum)
