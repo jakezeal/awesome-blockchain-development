@@ -478,6 +478,7 @@ A curated list of blockchain, cryptocurrency and fintech resources for software 
 ## Getting Started
 
 * [The Ethereum Whitepaper by Vitalik Buterin](https://github.com/ethereum/wiki/wiki/White-Paper)
+* [Ethereum Yellow Paper by Gavin Wood](http://gavwood.com/Paper.pdf)
 * [What is Ethereum? A Step-by-Step Beginners Guide](https://blockgeeks.com/guides/ethereum/)
 * [What is Ethereum? A Simple Explanation (Youtube Video)](https://www.youtube.com/watch?v=j23HnORQXvs)
 * [Ethereum: The World Computer](https://www.youtube.com/watch?v=j23HnORQXvs)
@@ -496,6 +497,76 @@ A curated list of blockchain, cryptocurrency and fintech resources for software 
 * [IRC, Skype & Gitter channels ](https://forum.ethereum.org/discussion/1495/chat-with-the-ethereum-community-on-skype-irc-and-gitter)
 * [Ethstats](https://ethstats.net/) 
 * [Ethereum Price](http://ethereumprice.org/)
+
+## Ethereum Virtual Machine
+
+* [CoinCulture's Guide to the EVM](https://github.com/CoinCulture/evm-tools/blob/master/analysis/guide.md)
+* [Diving Into The Ethereum Virtual Machine](https://medium.com/@hayeah/diving-into-the-ethereum-vm-6e8d5d2f3c30)
+* [Common Tests for Ethereum Implementations](https://github.com/ethereum/tests)
+
+### Implementations
+
+* [go-ethereum](https://github.com/ethereum/go-ethereum)
+    - A popular Ethereum client with its own EVM implementation ([core/vm](https://github.com/ethereum/go-ethereum/tree/master/core/vm) directory)
+* [Parity](https://github.com/paritytech/parity) in Rust
+    - Another popular Ethereum client with its own EVM implementation ([ethcore](https://github.com/paritytech/parity/tree/master/ethcore) directory)
+* [cpp-ethereum](https://github.com/ethereum/cpp-ethereum)
+    - An Ethereum client that generates the consensus test suite ([libevm/VM.cpp](https://github.com/ethereum/cpp-ethereum/blob/develop/libevm/VM.cpp))
+* [Pyethereum](https://github.com/ethereum/pyethereum) in Python
+    - Another client with probably the best readable EVM implementation ([ethereum/vm.py](https://github.com/ethereum/pyethereum/blob/develop/ethereum/vm.py))
+* [Py-EVM](https://github.com/pipermerriam/py-evm) in Python
+    - An alternate Python implementation designed to be highly configurable and modular.
+* [EthereumJ](https://github.com/ethereum/ethereumj) in Java
+    - A client with its own EVM implementation
+* [eth-isabelle](https://github.com/pirapira/eth-isabelle)
+    - An EVM implementation for theorem provers
+* [Modeling EVM in the K framework](https://github.com/kframework/evm-semantics) ([whitepaper](https://www.ideals.illinois.edu/handle/2142/97207))
+    - An EVM implementation for [K framework](http://www.kframework.org/index.php/Main_Page)
+* [hevm](https://github.com/dapphub/hevm)
+    - An EVM implementation written in Haskell with debugging in mind
+* [Burrow](https://github.com/hyperledger/burrow)
+    - An EVM implementation in Go extended with a native name registry and permissioning layer
+* [Ethereumjs-VM](https://github.com/ethereumjs/ethereumjs-vm)
+    - Implements Ethereum's VM in JS
+    
+### Programming Languages
+
+* [Solidity](https://github.com/ethereum/solidity)
+    - The most popular programming language for Ethereum contracts
+    - [Solidity Guide](https://solidity.readthedocs.io/en/latest/)
+    - [Awesome Solidity](https://github.com/bkrem/awesome-solidity)
+    - The LLL compiler is also in the same repository
+* [Viper](https://github.com/ethereum/viper)
+    - A language with overflow-checking, numeric units but without unlimited loops
+* [Bamboo](https://github.com/pirapira/bamboo)
+    - A language without loops but with explict constructor invocation at the end of every call
+
+### Debuggers
+
+* [REMIX](https://github.com/ethereum/remix)
+    - An IDE containing an EVM code debugger
+* [debug\_traceTransaction method](https://github.com/ethereum/go-ethereum/wiki/Management-APIs#debug_tracetransaction)
+    - An instruction-wise trace information provided by go-ethereum
+* [Ethereum Function Signature Database](https://www.4byte.directory/)
+    - A database for deciphering `0x165ffd10` into `restart(bytes32,bytes32)`.
+
+### Code Analyzers
+
+* [Mythril](https://github.com/b-mueller/mythril)
+    - A blockchain exploration tool that indexes all contracts on the network, containing a disassembler, an ABI function detector and a control flow analyzer.
+    - Comes with a [--fire-laser option](https://hackernoon.com/crafting-ethereum-exploits-by-laser-fire-1c9acf25af4f)
+    - Powered by [laser-ethereum](https://github.com/b-mueller/laser-ethereum)
+* [porosity](https://github.com/comaeio/porosity)
+    - A reverse enginering tool, a disassembler, an ABI function detector and a decompiler that also highlights vulnerabilities
+* [evmdis](https://github.com/arachnid/evmdis)
+    - A disassembler for EVM code
+* [Securify](http://securify.ch/)
+    - A tool that strives to achieve no false-negatives
+    - The implementation seems not public as of now
+* [Oyente](https://github.com/melonproject/oyente)
+    - An automatic EVM code analyzer based on symbolic execution and [Z3](https://github.com/Z3Prover/z3) SMT solver
+* [Dr. Y's Ethereum Contract Analyzer](http://dry.yoichihirai.com/)
+    - A symbolic executor for EVM code
 
 ## Discussion Forums
 
