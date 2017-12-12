@@ -477,7 +477,7 @@ A curated list of blockchain, cryptocurrency and fintech resources for software 
 
 ## Getting Started
 
-* [The Ethereum Whitepaper by Vitalik Buterin](https://github.com/ethereum/wiki/wiki/White-Paper)
+* [Ethereum Whitepaper by Vitalik Buterin](https://github.com/ethereum/wiki/wiki/White-Paper)
 * [Ethereum Yellow Paper by Gavin Wood](http://gavwood.com/Paper.pdf)
 * [What is Ethereum? A Step-by-Step Beginners Guide](https://blockgeeks.com/guides/ethereum/)
 * [What is Ethereum? A Simple Explanation (Youtube Video)](https://www.youtube.com/watch?v=j23HnORQXvs)
@@ -485,20 +485,13 @@ A curated list of blockchain, cryptocurrency and fintech resources for software 
 * [Ethereum in Layman's Terms](https://www.quora.com/Ethereum-blockchain-app-platform/What-is-Ethereum-in-laymans-term)
 * [Vitalik Buterin explains Ethereum](https://www.youtube.com/watch?v=TDGq4aeevgY)
 * [Ethereum Development Tutorial](https://github.com/ethereum/wiki/wiki/Ethereum-Development-Tutorial)
-* [Original Bitcoin Talk Post](https://bitcointalk.org/index.php?topic=428589.0)
+* [Build Dapps using Meteor](https://github.com/ethereum/wiki/wiki/Dapp-using-Meteor) 
 
+## History of Ethereum
 
-
-* [Youtube](https://www.youtube.com/channel/UC6rYoXJ_3BbPyWx_GQDDRRQ)
-* [Twitter](https://twitter.com/ethereumproject)
-* [Facebook](https://www.facebook.com/ethereumproject)
-* [Forum](https://forum.ethereum.org/)
-* [Github / Source codes](https://github.com/ethereum)
-* [Read the full user guide](https://ethereum.gitbooks.io/frontier-guide/content/)
-* [Meetups](http://www.meetup.com/topics/ethereum/)
-* [IRC, Skype & Gitter channels ](https://forum.ethereum.org/discussion/1495/chat-with-the-ethereum-community-on-skype-irc-and-gitter)
-* [Ethstats](https://ethstats.net/) 
-* [Ethereum Price](http://ethereumprice.org/)
+* [Ethereum Annoucement on Bitcoin Talk](https://bitcointalk.org/index.php?topic=428589.0)
+* [Ethereum Launches 'Cryptocurrency 2.0' Network](https://www.coindesk.com/ethererum-launches-cryptocurrency-2-0-network/)
+* [Launching the Ether Sale (Original Announcement)](https://blog.ethereum.org/2014/07/22/launching-the-ether-sale/)
 
 ## Ethereum Virtual Machine
 
@@ -582,13 +575,6 @@ A curated list of blockchain, cryptocurrency and fintech resources for software 
 - [BBC explains Ethereum](https://www.youtube.com/watch?v=0X33lgMbvdI)
 - [Devcon1 2015](https://www.youtube.com/playlist?list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk)
 - [Devcon0 2014](https://www.youtube.com/watch?v=_BvvUlKDqp0&list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS)  
-
-#### Where do I start?
-- [Download the wallet and build your own cryptocurrency](https://blog.ethereum.org/2015/12/03/how-to-build-your-own-cryptocurrency/)
-- [Using the Wallet part 2: build a Democratic Autonomous Organisation](https://blog.ethereum.org/2015/12/04/ethereum-in-practice-part-2-how-to-build-a-better-democracy-in-under-a-100-lines-of-code/)
-- [Using the Wallet part 3: build your own transparent Central Bank](https://blog.ethereum.org/2015/12/07/ethereum-in-practice-part-3-how-to-build-your-own-transparent-bank-on-the-blockchain/)
-- [Build apps using Meteor and the ethereum tools](https://github.com/ethereum/wiki/wiki/Dapp-using-Meteor)
-- [Learn Solidity, the main language for smart contracts](https://solidity.readthedocs.org/en/latest/) 
 
 #### Blogs & Articles
 - [Rise of the World Computer](http://www.svds.com/ethereum-the-rise-of-the-world-computer/#.Vs3MJboMMl0.facebook)
