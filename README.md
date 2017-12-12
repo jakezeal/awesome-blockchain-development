@@ -33,6 +33,13 @@ A curated list of blockchain, cryptocurrency and fintech resources for software 
   * [Fork Stats](#fork-stats)
   * [Extras](#extras)
 * [Ethereum](#ethereum)
+  * [Getting Started](#getting-started)
+  * [History of Ethereum](#history-of-ethereum)
+  * [Ethereum Virtual Machine](#ethereum-virtual-machine)
+  * [Video Presentations](#video-presentations)
+  * [Discussion Forums](#discussion-forums)
+  * [Articles](#articles)
+  * [Extras](#extras)
 * [Cryptography](#cryptography)
 * [Economics](#economics)
 * [Identity](#identity)
@@ -563,17 +570,17 @@ A curated list of blockchain, cryptocurrency and fintech resources for software 
 * [Dr. Y's Ethereum Contract Analyzer](http://dry.yoichihirai.com/)
     - A symbolic executor for EVM code
 
+## Video Presentations
+
+- [Devcon1 2015](https://www.youtube.com/playlist?list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk)
+- [Devcon0 2014](https://www.youtube.com/watch?v=_BvvUlKDqp0&list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS)  
+
 ## Discussion Forums
 
 * [Ethereum Reddit](https://www.reddit.com/r/ethereum/)
 * [Ethereum IRC Channel](https://webchat.freenode.net/?channels=%23ethereum)
 * [Ethereum Gitter](https://gitter.im/ethereum/home)
 * [Ethereum Community Forum](https://forum.ethereum.org/)
-
-## Video Presentations
-
-- [Devcon1 2015](https://www.youtube.com/playlist?list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk)
-- [Devcon0 2014](https://www.youtube.com/watch?v=_BvvUlKDqp0&list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS)  
 
 ## Articles
 
